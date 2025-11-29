@@ -1,0 +1,14 @@
+site_name: MyPlace Learning
+theme:  
+  name: readthedocs
+nav:
+  - Home:   index.md
+  - About:  about.md
+  - Reference:
+    - Markdown Basic: reference/md_basics.md
+    - Markdown Syntax: reference/md_syntax.md
+  - Programming: 
+    - Schedules: programming.md
+    - CMU 15-112: programming/cmu_15_112.md
+    
+
